@@ -1,2 +1,2 @@
 print("Hello World")
-print("Hassan Abdulrahman")
+print("Academic year 2020-21")
